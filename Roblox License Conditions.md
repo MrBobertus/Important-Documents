@@ -3,13 +3,13 @@ MLCL Condition for Roblox files including whole places, Lua scripts and other as
 Licensing:
 
 *   Lua Scripts: All Lua scripts within this place are licensed under the
-    MrBobertus Limited Commercial License (MLCL). This allows free personal use
+    [MrBobertus Limited Commercial License (MLCL)](https://github.com/MrBobertus/Important-Documents/blob/main/MLCL%20-%20MrBobertus%20Limited%20Commercial%20License.md). This allows free personal use
     and modification, but commercial use requires prior written permission from
-    MrBobertus. See the license header at the top of each Lua script for details.
+    MrBobertus. See the [License](https://github.com/MrBobertus/Important-Documents/blob/main/MLCL%20-%20MrBobertus%20Limited%20Commercial%20License.md) here for the whole License.
 
 *   Other Original Assets (3D models, textures, sounds, images, etc.): Original assets created by
     MrBobertus within this place are also licensed under
-    the MrBobertus Limited Commercial License (MLCL) *for use outside of the Roblox
+    the [MrBobertus Limited Commercial License (MLCL)](https://github.com/MrBobertus/Important-Documents/blob/main/MLCL%20-%20MrBobertus%20Limited%20Commercial%20License.md) *for use outside of the Roblox
     platform*.  This means that if you export or otherwise obtain these assets
     and use them *outside* of Roblox, you are bound by the terms of the MLCL:
     free for personal use, attribution required, commercial use requires
