@@ -1,4 +1,4 @@
-# MrBobertus Limited Non-Commercial License (MLCL)
+# MrBobertus Limited Commercial License (MLCL)
 
 ### Copyright (c) 2025 MrBobertus
 
@@ -10,13 +10,15 @@ following conditions:
 ## 1. Non-Commercial Use Only
 
     The Work may not be used for commercial purposes without prior written
-    permission from the copyright holder (MrBobertus). You can contact me via Email at mr.bobertus.dev@gmail.com to request commercial permission.
+    permission from the copyright holder (MrBobertus).
     "Commercial use" includes, but is not limited to:
         Selling the Work or modified versions.
         Using it as part of a paid product or service.
         Monetizing it via ads, subscriptions, or other revenue streams.
     Distribution of modified versions of the Work is permitted for
     non-commercial purposes, provided that the attribution requirements are met.
+
+### You can contact me via Email at mr.bobertus.dev@gmail.com to request commercial permission.
 
 ## 2. Attribution Required
 
