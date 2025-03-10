@@ -27,7 +27,7 @@ following conditions:
 
 ## 3.  Reciprocal Sharing (Copyleft)
 
-    If you distribute modified versions of the Work, you must do so under the terms of this same license (MrBobertus Non-Commercial License).
+    If you distribute modified versions of the Work, you must do so under the terms of this same license (MLCL) MrBobertus Limited Commercial License.
 
 ## 4. Revocation of Rights
 
