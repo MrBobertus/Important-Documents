@@ -18,7 +18,7 @@ following conditions:
     Distribution of modified versions of the Work is permitted for
     non-commercial purposes, provided that the attribution requirements are met.
 
-### For commercial permission requests or general inquiries, please contact me via email at mr.bobertus.dev@gmail.com.
+### For commercial permission requests or general inquiries, please contact me via email at mr.bobertus.dev@gmail.com. I am open to discuss and grant explicit permissions.
 
 ## 2. Attribution Required
 
